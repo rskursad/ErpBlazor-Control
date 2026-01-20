@@ -1,0 +1,33 @@
+1. BÖLÜM: KVKK AYDINLATMA METNİ
+[ORUN KYS] KİŞİSEL VERİLERİN KORUNMASI AYDINLATMA METNİ
+
+İşbu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) uyarınca, yazılımın kullanım alanı ve veri işleme süreçleri hakkında kullanıcıyı bilgilendirmek amacıyla hazırlanmıştır.
+
+1. Veri Sorumlusu Sıfatı ve Sorumluluk Dağılımı [ORUN KYS] yazılımı, verileri kullanıcının kendi donanımı üzerinde işleyen yerel bir araçtır. Bu kapsamda:
+
+Veri Sorumlusu: Yazılım üzerinden müşteri, reçete veya stok bilgilerini sisteme giren, işlem amaçlarını belirleyen ve sistemi yöneten KULLANICI (İşletme/Birey)’dir.
+Yazılım Geliştiricisi: Verilere erişim yetkisi bulunmayan, verileri kendi sunucularında barındırmayan ve sadece platform sağlayıcı konumunda olan taraftır.
+2. Verilerin İşlenme ve Depolanma Mahalli Uygulama kapsamında toplanan tüm kişisel veriler, uygulamanın kurulu olduğu cihazın yerel hafızasında (SQLite/Yerel Veritabanı) saklanmaktadır. Yazılımın merkezi bir bulut depolama veya barındırma (hosting) özelliği bulunmamaktadır.
+
+3. Veri Güvenliği ve Barındırma Sorumluluğu Verilerin bulunduğu cihazın fiziksel güvenliği, yazılıma erişim şifrelerinin korunması ve veritabanı dosyasının (db dosyası) yetkisiz erişimlere karşı muhafazası tamamen KULLANICI sorumluluğundadır. Yazılım geliştiricisi, cihazın çalınması, kaybolması veya yetkisiz kişilerin eline geçmesi durumunda doğabilecek veri sızıntılarından sorumlu tutulamaz.
+
+4. Haklarınız KVKK 11. madde kapsamındaki haklarınızı, veri sorumlusu sıfatına sahip olan ilgili işletmeye başvurarak kullanabilirsiniz.
+
+2. BÖLÜM: KULLANIM ŞARTNAMESİ VE LİSANS SÖZLEŞMESİ
+ORUN KYS SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)
+
+1. Lisansın Kapsamı İşbu sözleşme [ORUN KYS] yazılımının (“Yazılım”) kullanım haklarını kapsar. Yazılımın mülkiyeti geliştiriciye ait olup, kullanıcıya sadece sınırlı, devredilemez ve münhasır olmayan bir kullanım lisansı verilmektedir.
+
+2. Veri ve Barındırma "Sorumluluk Reddi" (Kritik Madde)
+
+Veri Sahipliği: Yazılıma girilen tüm ticari ve kişisel veriler kullanıcının mülkiyetindedir.
+Barındırma Sorumluluğu: Geliştirici, yazılım için herhangi bir sunucu, barındırma veya online depolama hizmeti sağlamamaktadır. Tüm veriler kullanıcının sorumluluğundaki donanımlarda barındırılır.
+Veri Kaybı: Cihaz arızası, işletim sistemi hataları, siber saldırılar veya yanlış kullanım neticesinde oluşabilecek veri kayıplarından Geliştirici KESİNLİKLE SORUMLU DEĞİLDİR.
+Yedekleme: Uygulama verilerinin düzenli olarak yedeklenmesi (veritabanı dosyasının kopyalanması vb.) tamamen kullanıcının görevidir. Geliştirici, otomatik yedekleme veya veri kurtarma taahhüdünde bulunmaz.
+3. Yazılımın "Olduğu Gibi" Sunulması Yazılım "olduğu gibi" (As-Is) esasıyla sunulmaktadır. Geliştirici; yazılımın kesintisiz çalışacağını, kullanıcının tüm beklentilerini karşılayacağını veya hatasız olduğunu garanti etmez.
+
+4. Tersine Mühendislik ve Fikri Mülkiyet Kullanıcı, yazılımın kaynak kodlarına erişmeye çalışmayacağını (Decompilation), Native AOT veya benzeri koruma yöntemlerini devre dışı bırakmayacağını ve fikri mülkiyet haklarını ihlal etmeyeceğini kabul eder.
+
+5. Sorumluluk Sınırlandırması Geliştiricinin işbu sözleşmeden doğan mali sorumluluğu, her halükarda kullanıcının yazılım için ödediği lisans bedelini (varsa) aşamaz. Geliştirici, dolaylı zararlar, kâr kayıpları veya veri kaybı tazminatlarından sorumlu tutulamaz.
+
+6. Yürürlük ve Onay Yazılımın yüklenmesi veya kullanılması, yukarıdaki tüm maddelerin kullanıcı tarafından okunup onaylandığı anlamına gelir.
