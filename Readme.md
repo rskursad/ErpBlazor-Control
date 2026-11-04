@@ -121,4 +121,4 @@
   için:
     
   • Geliştirici: ORUN KYS Geliştirme Ekibi
-  • İletişim E-Posta: destek@orunkys.com
+  • İletişim E-Posta: destek@orunkys.com.tr
